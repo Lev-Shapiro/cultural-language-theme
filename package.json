@@ -1,0 +1,26 @@
+{
+  "name": "cultural-language-theme",
+  "displayName": "Cultural Language Theme",
+  "description": "A color theme for my \"Cultural\" language",
+  "publisher": "Lev Shapiro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "author": {
+    "name": "Lev Shapiro",
+    "url": "https://github.com/Lev-Shapiro"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cultural Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cultural Theme-color-theme.json"
+      }
+    ]
+  }
+}
